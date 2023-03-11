@@ -10,7 +10,8 @@ Calling BikeShop's ASP.NET on Android natively.
 ![AndroidSS](https://github.com/vali2wd/BikeShopClient/blob/master/Android%20Screenshot.jpg)
 ## Steps to run
 
-
+## 🛠 Stack
+Kotlin and Retrofit.
 
 ```bash
   run "git clone https://github.com/vali2wd/BikeShop.git"
